@@ -1,0 +1,11 @@
+O:\projects\calculator\CalculationLibrary\bin\Debug\net5.0-windows\CalculationLibrary.deps.json
+O:\projects\calculator\CalculationLibrary\bin\Debug\net5.0-windows\CalculationLibrary.dll
+O:\projects\calculator\CalculationLibrary\bin\Debug\net5.0-windows\ref\CalculationLibrary.dll
+O:\projects\calculator\CalculationLibrary\bin\Debug\net5.0-windows\CalculationLibrary.pdb
+O:\projects\calculator\CalculationLibrary\obj\Debug\net5.0-windows\CalculationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+O:\projects\calculator\CalculationLibrary\obj\Debug\net5.0-windows\CalculationLibrary.AssemblyInfoInputs.cache
+O:\projects\calculator\CalculationLibrary\obj\Debug\net5.0-windows\CalculationLibrary.AssemblyInfo.cs
+O:\projects\calculator\CalculationLibrary\obj\Debug\net5.0-windows\CalculationLibrary.csproj.CoreCompileInputs.cache
+O:\projects\calculator\CalculationLibrary\obj\Debug\net5.0-windows\CalculationLibrary.dll
+O:\projects\calculator\CalculationLibrary\obj\Debug\net5.0-windows\ref\CalculationLibrary.dll
+O:\projects\calculator\CalculationLibrary\obj\Debug\net5.0-windows\CalculationLibrary.pdb
